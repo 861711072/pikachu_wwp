@@ -13,16 +13,19 @@
             "mode": "preview"
           }
         },
-        "group": "7455c7734dfbad19"
+        "group": "359808b868fbfa4b"
       },
       {
-        "id": "cf22133a7c8f1c63",
+        "id": "a2032c5b7a575023",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "暴力破解.md",
+            "mode": "source"
+          }
         },
-        "group": "7455c7734dfbad19"
+        "group": "359808b868fbfa4b"
       }
     ],
     "direction": "vertical"
@@ -59,6 +62,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "a5633bbaf4ef3a70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27b575a943b52b73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "暴力破解.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,6 +107,16 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "dd40697023fb4276",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "暴力破解.md"
+              }
+            }
           }
         ]
       }
@@ -96,7 +125,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64051b3f800c6f87",
+  "active": "a2032c5b7a575023",
   "lastOpenFiles": [
     "暴力破解.md"
   ]
