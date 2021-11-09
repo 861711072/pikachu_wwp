@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "7bc7482291f14f85",
+    "type": "split",
+    "children": [
+      {
+        "id": "64051b3f800c6f87",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "暴力破解.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7455c7734dfbad19"
+      },
+      {
+        "id": "cf22133a7c8f1c63",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "7455c7734dfbad19"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7138eb9dfa6ef9a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "29e90205490407ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a30d7986bb4a87ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a649ee6d931b2f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a7ba95432905d37",
+    "type": "split",
+    "children": [
+      {
+        "id": "8477a5f6516a014f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5147356229c0b312",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "暴力破解.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "64051b3f800c6f87",
+  "lastOpenFiles": [
+    "暴力破解.md"
+  ]
+}
